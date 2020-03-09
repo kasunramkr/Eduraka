@@ -15,4 +15,4 @@ print(df)
 print(df.loc["r2"])
 
 df.to_csv("new.csv")
-print (pandas.read_csv("new.csv"))
+print(pandas.read_csv("new.csv"))
